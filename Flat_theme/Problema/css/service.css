@@ -1,0 +1,57 @@
+body{
+	background-color: #eee;
+}
+
+.centro{
+	text-align: center;
+}
+
+.cen{
+	margin-left: 100px; 
+}
+
+.icon-windows{
+	background-color: #A49E9E;
+	color: #fff;
+	font-size: 40px;
+	border-radius: 50%;
+	;
+	
+}
+
+.icon-android{
+	background-color: #A49E9E;
+	color: #fff;
+	font-size: 40px;
+	border-radius: 50%
+}
+
+.icon-apple{
+	background-color: #A49E9E;
+	color: #fff;
+	font-size: 40px;
+	border-radius: 50%
+}
+
+.icon-linux{
+	background-color: #A49E9E;
+	color: #fff;
+	font-size: 40px;
+	border-radius: 50%
+}
+
+.icon-dribbble{
+	background-color: #A49E9E;
+	color: #fff;
+	font-size: 40px;
+	border-radius: 50%
+}
+
+.icon-google-plus{
+	background-color: #A49E9E;
+	color: #fff;
+	font-size: 40px;
+	border-radius: 50%
+}
+
+

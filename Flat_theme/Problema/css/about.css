@@ -1,0 +1,37 @@
+.centro{
+	text-align: center;
+}
+
+.circle{
+	border-radius: 50%;
+}
+
+.icon-facebook-sign{
+	background-color: #fff;
+	border-radius: 15%;
+	color: #4432F4;
+	font-size: 30px;
+	
+}
+
+.icon-google-plus-sign{
+	background-color: #fff;
+	border-radius: 50%;
+	color: #E31515;
+	font-size: 30px;
+}
+
+.icon-twitter-sign{
+	background-color: #fff;
+	border-radius: 50%;
+	color: #53D1F1;
+	font-size: 30px;
+}
+
+.icon-linkedin-sign{
+	background-color: #fff;
+	border-radius: 50%;
+	color: #425BF2;
+	font-size: 30px;
+}
+

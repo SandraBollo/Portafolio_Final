@@ -1,0 +1,39 @@
+body{
+	background-color: #ddd;
+}
+
+.base{
+	background-color: #FFF;
+	height: 500px;
+	margin: 5px;
+	width: 730px;
+}
+
+.chico{
+
+}
+
+.blogs{
+	margin: 15px; 
+	position: relative;
+}
+
+.blogs1{
+	margin-top: -375px;
+	margin-left: 35px;
+	padding-left: 180px;
+	position: relative;
+}
+
+.btn-toolbar{
+	border: 1px solid;
+}
+
+.btn-group{
+	border: 1px solid;
+}
+
+.btn {
+	margin: 3px;
+	padding-top: 0;
+}
